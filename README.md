@@ -1,2 +1,3 @@
 # NB-IOT
-narrow band internet of thinge
+narrow band internet of thinges
+
